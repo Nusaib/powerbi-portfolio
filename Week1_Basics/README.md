@@ -14,6 +14,7 @@
 
 ## 📸 Dashboard Preview
 ![Dashboard Week 1](dashboard_week1.png)
+![Dashboard Week 1](dashboard_week1.gif)
 
 ## 📝 Penjelasan Dashboard
 1. **Slicer (Date, Category, Product Name)** → untuk filter dinamis.  

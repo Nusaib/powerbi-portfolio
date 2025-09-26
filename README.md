@@ -1,5 +1,10 @@
 # 📊 Power BI Learning Portfolio
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Nusaib/powerbi-portfolio)
+![Repo size](https://img.shields.io/github/repo-size/Nusaib/powerbi-portfolio)
+![GitHub top language](https://img.shields.io/github/languages/top/Nusaib/powerbi-portfolio)
+![License](https://img.shields.io/github/license/Nusaib/powerbi-portfolio)
+
 Repositori ini mendokumentasikan perjalanan belajar **Power BI** mingguan saya.  
 Setiap folder berisi dataset, worksheet, dashboard, dan README khusus minggu tersebut.  
 
@@ -8,7 +13,7 @@ Tujuan utama: membangun portofolio pembelajaran Power BI step-by-step dari dasar
 ---
 
 ## 📅 Progress Mingguan
-- [Week 1 – Power BI Basics (ETL + Dashboard)](./Week1_Basics) ✅  
+- [Week 1 – Power BI Basics (ETL + Dashboard)](./Week1_Basics) ✅ → ETL, relasi, DAX dasar, dashboard interaktif 
 - Week 2 – DAX Fundamentals (akan datang)  
 - Week 3 – Time Intelligence (akan datang)  
 - Week 4 – Visualization Advanced (akan datang)  
@@ -27,6 +32,7 @@ Tujuan utama: membangun portofolio pembelajaran Power BI step-by-step dari dasar
 
 ## 📸 Preview Week 1
 ![Dashboard Week 1](./Week1_Basics/dashboard_week1.png)
+![Dashboard Week 1](./Week1_Basics/dashboard_week1.gif)
 
 ---
 
