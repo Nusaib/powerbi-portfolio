@@ -13,7 +13,6 @@
 - `dashboard_week1.png` – hasil dashboard visualisasi
 
 ## 📸 Dashboard Preview
-![Dashboard Week 1](dashboard_week1.png)
 ![Dashboard Week 1](dashboard_week1.gif)
 
 ## 📝 Penjelasan Dashboard

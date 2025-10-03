@@ -14,7 +14,7 @@ Tujuan utama: membangun portofolio pembelajaran Power BI step-by-step dari dasar
 
 ## 📅 Progress Mingguan
 - [Week 1 – Power BI Basics (ETL + Dashboard)](./Week1_Basics) ✅ → ETL, relasi, DAX dasar, dashboard interaktif 
-- Week 2 – DAX Fundamentals (akan datang)  
+- [Week 2 – DAX Fundamentals](./Week2_Relation_DAX) ✅ → Relasi tabel dan DAX dasar
 - Week 3 – Time Intelligence (akan datang)  
 - Week 4 – Visualization Advanced (akan datang)  
 - Week 5 – Project Mini Dashboard (akan datang)  
@@ -30,9 +30,9 @@ Tujuan utama: membangun portofolio pembelajaran Power BI step-by-step dari dasar
 
 ---
 
-## 📸 Preview Week 1
-![Dashboard Week 1](./Week1_Basics/dashboard_week1.png)
+## 📸 Dashboard Preview
 ![Dashboard Week 1](./Week1_Basics/dashboard_week1.gif)
+![Dashboard Week 2](./Week2_Relation_DAX/dashboard_week2.gif)
 
 ---
 
