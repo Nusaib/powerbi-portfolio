@@ -4,6 +4,9 @@
 ![Repo size](https://img.shields.io/github/repo-size/Nusaib/powerbi-portfolio)
 ![GitHub top language](https://img.shields.io/github/languages/top/Nusaib/powerbi-portfolio)
 ![License](https://img.shields.io/github/license/Nusaib/powerbi-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/Nusaib/powerbi-portfolio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Nusaib/powerbi-portfolio?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Nusaib/powerbi-portfolio?style=social)
 
 Repositori ini mendokumentasikan perjalanan belajar **Power BI** mingguan saya.  
 Setiap folder berisi dataset, worksheet, dashboard, dan README khusus minggu tersebut.  
