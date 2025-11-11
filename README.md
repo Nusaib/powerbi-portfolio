@@ -27,7 +27,7 @@ The main goal is to build a step-by-step Power BI portfolio, covering everything
 ## 🎯 Learning goals
 - Master Power Query for ETL and data transformation.  
 - Build table relationships using a star schema. 
-- MCreate DAX measures from basic to advanced (including time intelligence).
+- Create DAX measures from basic to advanced (including time intelligence).
 - Design professional, interactive dashboards. 
 - Develop a real-world portfolio to showcase Power BI skills.
 
