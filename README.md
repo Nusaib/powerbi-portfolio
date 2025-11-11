@@ -8,28 +8,28 @@
 ![GitHub forks](https://img.shields.io/github/forks/Nusaib/powerbi-portfolio?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Nusaib/powerbi-portfolio?style=social)
 
-Repositori ini mendokumentasikan perjalanan belajar **Power BI** mingguan saya.  
-Setiap folder berisi dataset, worksheet, dashboard, dan README khusus minggu tersebut.  
+This repository documents my weekly **Power BI** learning journey.
+Each folder contains the dataset, worksheet, dashboard, and a README specific to that week.
 
-Tujuan utama: membangun portofolio pembelajaran Power BI step-by-step dari dasar **ETL, DAX, relasi** hingga **dashboard interaktif** dan **time intelligence**.
-
----
-
-## 📅 Progress Mingguan
-- [Week 1 – Power BI Basics (ETL + Dashboard)](./Week1_Basics) ✅ → ETL, relasi, DAX dasar, dashboard interaktif 
-- [Week 2 – DAX Fundamentals](./Week2_Relation_DAX) ✅ → Relasi tabel dan DAX dasar
-- Week 3 – Time Intelligence (akan datang)  
-- Week 4 – Visualization Advanced (akan datang)  
-- Week 5 – Project Mini Dashboard (akan datang)  
+The main goal is to build a step-by-step Power BI portfolio, covering everything from **ETL, DAX, and data relationships** to **interactive dashboards** and **time intelligence**.
 
 ---
 
-## 🎯 Target Belajar
-- Menguasai Power Query (ETL, transformasi data).  
-- Membuat relasi antar tabel (star schema).  
-- Membuat DAX measure dasar hingga advanced (time intelligence).  
-- Mendesain dashboard interaktif yang profesional.  
-- Menyusun portofolio nyata sebagai bukti keterampilan Power BI.  
+## 📅 Weekly Progress
+- [Week 1 – Power BI Basics (ETL + Dashboard)](./Week1_Basics) ✅ → ETL, relationships, basic DAX, interactive dashboard 
+- [Week 2 – DAX Fundamentals](./Week2_Relation_DAX) ✅ → Tabel relationships and basic DAX
+- Week 3 – Time Intelligence (coming soon)  
+- Week 4 – Visualization Advanced (coming soon)  
+- Week 5 – Project Mini Dashboard (coming soon)  
+
+---
+
+## 🎯 Learning goals
+- Master Power Query for ETL and data transformation.  
+- Build table relationships using a star schema. 
+- MCreate DAX measures from basic to advanced (including time intelligence).
+- Design professional, interactive dashboards. 
+- Develop a real-world portfolio to showcase Power BI skills.
 
 ---
 
@@ -40,10 +40,10 @@ Tujuan utama: membangun portofolio pembelajaran Power BI step-by-step dari dasar
 ---
 
 ## 📌 Tools
-- **Power BI Desktop** (Visualisasi & DAX)  
+- **Power BI Desktop** (Visualization & DAX)  
 - **Excel** (Dataset & Worksheet)  
 - **GitHub** (Version Control & Portfolio Hosting)  
 
 ---
 
-✨ Stay tuned untuk update tiap minggu!  
+✨ Stay tuned for weekly update!  

@@ -1,34 +1,34 @@
-# 📊 Portfolio Week 1 – Power BI Basics
+# 📊 Week 1 Portfolio – Power BI Basics
 
-## 📌 Materi Minggu Ini
-- Dasar Power Query (ETL, transformasi data)
+## 📌 This Week's Topics
+- Basic Power Query (ETL, data transformation)
 - Merge Queries
-- Relasi Many-to-One (Sales ↔ Products)
-- DAX Measure Dasar (`SUM`, `DISTINCTCOUNT`)
-- Visualisasi & Dashboard interaktif
+- Many-to-One Relationships (Sales ↔ Products)
+- Basic DAX Measures (`SUM`, `DISTINCTCOUNT`)
+- Interactive visualization & dashboard
 
-## 📂 File
-- `PowerBI_Dataset.xlsx` – dataset latihan (Products & Sales)
-- `PowerBI_Worksheet.xlsx` – instruksi step-by-step ETL & DAX
-- `dashboard_week1.png` – hasil dashboard visualisasi
+## 📂 Files
+- `PowerBI_Dataset.xlsx` – practice dataset (Products & Sales)
+- `PowerBI_Worksheet.xlsx` – step-by-step instructions for ETL & DAX
+- `dashboard_week1.png` – resulting visualization dashboard
 
 ## 📸 Dashboard Preview
 ![Dashboard Week 1](dashboard_week1.gif)
 
-## 📝 Penjelasan Dashboard
-1. **Slicer (Date, Category, Product Name)** → untuk filter dinamis.  
-2. **Total Sales by Product (Bar Chart)** → perbandingan nilai penjualan antar produk.  
-3. **Quantity by Product (Column Chart)** → total unit terjual per produk.  
-4. **Sales Distribution by Category (Pie Chart)** → kontribusi kategori Electronics vs Accessories.  
-5. **Card (Total Sales)** → headline metrik utama 5.85K.  
-6. **Sales Detail Table** → daftar transaksi detail + subtotal.  
+## 📝 Dashboard Explanation
+1. **Slicer (Date, Category, Product Name)** → for dynamic filtering.  
+2. **Total Sales by Product (Bar Chart)** → compare sales values across products.  
+3. **Quantity by Product (Column Chart)** → total units sold per product.  
+4. **Sales Distribution by Category (Pie Chart)** → contribution of Electronics vs Accessories categories. 
+5. **Card (Total Sales)** → key metric headline: 5.85K. 
+6. **Sales Detail Table** → detailed transaction list with subtotals. 
 
-## ✅ Progress Minggu 1
-- Paham ETL dasar (cleaning, remove duplicates, merge query).  
-- Bisa membuat relasi many-to-one.  
-- Berhasil membuat DAX measure sederhana.  
-- Membangun dashboard interaktif dengan slicer & visual dasar.  
+## ✅ Week 1 Progress
+- Understand basic ETL (cleaning, removing duplicates, merging queries). 
+- Able to create many-to-one relationships.
+- Successfully created simple DAX measures.
+- Built an interactive dashboard with slicers and basic visuals. 
 
 ---
 
-📅 **Next Week (Week 2):** DAX Lanjutan – Time Intelligence (TOTALYTD, SAMEPERIODLASTYEAR, Growth %).
+📅 **Next Week (Week 2):** Relationships & Basic DAX.
